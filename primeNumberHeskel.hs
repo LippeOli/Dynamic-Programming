@@ -1,6 +1,3 @@
--- Vitor Antonio de Almeida lacerda NUSP: 12544761
--- Bruno Garcia de Oliveira Breda NUSP: 11212702
--- Felipe Oliveira Carvalho NUSP: 14613879
 
 -- Verifica se um numero eh primo
 isPrime :: Int -> Int -> Bool
