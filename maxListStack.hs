@@ -1,3 +1,7 @@
+-- Bruno Garcia de Oliveira Breda 11212702
+-- Felipe Oliveira Carvalho - 14613879
+-- Vitor Antonio de Almeida Lacerda  12544761
+
 comprimentoMaximoSegmentoCrescente :: [Int] -> Int
 comprimentoMaximoSegmentoCrescente = go 1 1
   where
